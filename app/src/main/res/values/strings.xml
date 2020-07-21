@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IINValidator</string>
+    <string name="iin">ИИН</string>
+    <string name="check">Проверить</string>
+    <string name="empty_field">Заполните поле</string>
+    <string name="incorrect_iin">Неправильный ИИН</string>
+    <string name="iin_does_not_exist">ИИН не существует</string>
+    <string name="iin_validation">Валидация ИИН</string>
+</resources>
